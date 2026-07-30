@@ -6,17 +6,17 @@ Last updated: 2026-07-30
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | 0      |
+| Easy       | 1      |
 | Medium     | 0      |
 | Hard       | 0      |
-| **Total**  | **0**  |
+| **Total**  | **1**  |
 
 ## Patterns
 
 | Pattern           | Status |
 |-------------------|--------|
-| Hash Map          | ⬜     |
-| Arrays            | ⬜     |
+| Hash Map          | ✅     |
+| Arrays            | ✅     |
 | Strings           | ⬜     |
 | Two Pointers      | ⬜     |
 | Sliding Window    | ⬜     |
@@ -34,6 +34,7 @@ Last updated: 2026-07-30
 
 ### Week 1 (2026-07-30)
 - Started repository
+- Solved Two Sum (Hash Map)
 
 ## Goals
 
