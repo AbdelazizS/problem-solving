@@ -9,6 +9,11 @@
 | Status     | Solved    |
 | LeetCode   | [#1](https://leetcode.com/problems/two-sum/) |
 
+## Solutions
+
+- [Java](java/Solution.java)
+- [C++](cpp/Solution.cpp)
+
 ## Summary
 
 Given an array of integers and a target, return indices of two numbers that add up to the target.
