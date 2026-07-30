@@ -5,7 +5,7 @@ A study journal and portfolio for FAANG-level DSA preparation.
 ## Progress
 
 ### Week 1 — Arrays & Hashing
-- ⬜ Two Sum
+- ✅ [Two Sum](arrays/0001-two-sum/)
 - ⬜ Valid Anagram
 - ⬜ Contains Duplicate
 
