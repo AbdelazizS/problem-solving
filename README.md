@@ -1,6 +1,6 @@
 # Problem Solving Journey
 
-A study journal and portfolio for FAANG-level DSA preparation.
+A study journal and portfolio for FAANG-level DSA preparation. Solutions are written in both **Java** and **C++**.
 
 ## Progress
 
@@ -31,12 +31,13 @@ progress.md      → overall stats and mastery tracking
 ```
 
 Each problem folder contains:
-- `Solution.java` — final accepted solution
+- `java/Solution.java` — final accepted solution in Java
+- `cpp/Solution.cpp` — final accepted solution in C++
 - `notes.md` — learning journal (mistakes, takeaways, similar problems)
 - `README.md` — quick summary (pattern, complexity, status)
 
 ## Current Streak
 
-0 days
+1 day
 
 See [progress.md](progress.md) for detailed statistics.
