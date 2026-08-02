@@ -7,7 +7,7 @@ A study journal and portfolio for FAANG-level DSA preparation. Solutions are wri
 ### Week 1 — Arrays & Hashing
 - ✅ [Two Sum](arrays/0001-two-sum/)
 - ⬜ Valid Anagram
-- ⬜ Contains Duplicate
+- ✅ [Contains Duplicate](arrays/0217-contains-duplicate/)
 
 ### Week 2
 - ⬜ (add problems as you go)
