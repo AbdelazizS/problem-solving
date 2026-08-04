@@ -1,15 +1,15 @@
 # Progress Tracker
 
-Last updated: 2026-08-02
+Last updated: 2026-08-04
 
 ## Problem Count
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | 2      |
+| Easy       | 3      |
 | Medium     | 0      |
 | Hard       | 0      |
-| **Total**  | **2**  |
+| **Total**  | **3**  |
 
 ## Patterns
 
@@ -17,7 +17,7 @@ Last updated: 2026-08-02
 |-------------------|--------|
 | Hash Map          | ✅     |
 | Arrays            | ✅     |
-| Strings           | ⬜     |
+| Strings           | ✅     |
 | Two Pointers      | ⬜     |
 | Sliding Window    | ⬜     |
 | Binary Search     | ⬜     |
@@ -36,6 +36,7 @@ Last updated: 2026-08-02
 - Started repository
 - Solved Two Sum (Hash Map)
 - Solved Contains Duplicate (Hash Set)
+- Solved Valid Anagram (Frequency Counting)
 - Day 1 complete — streak: 1 day
 - Adopted dual-language workflow: every solution written in both Java and C++
 
