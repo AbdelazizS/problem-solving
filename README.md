@@ -8,6 +8,7 @@ A study journal and portfolio for FAANG-level DSA preparation. Solutions are wri
 - ✅ [Two Sum](arrays/0001-two-sum/)
 - ✅ [Valid Anagram](strings/0242-valid-anagram/)
 - ✅ [Contains Duplicate](arrays/0217-contains-duplicate/)
+- ✅ [Majority Element](arrays/0169-majority-element/)
 
 ### Week 2
 - ⬜ (add problems as you go)
@@ -15,6 +16,7 @@ A study journal and portfolio for FAANG-level DSA preparation. Solutions are wri
 ## Patterns Learned
 
 - [Hash Map](patterns/hash-map.md)
+- [Boyer-Moore Voting](patterns/boyer-moore-voting.md)
 - [Two Pointers](patterns/two-pointers.md)
 - [Sliding Window](patterns/sliding-window.md)
 
