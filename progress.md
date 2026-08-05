@@ -1,15 +1,15 @@
 # Progress Tracker
 
-Last updated: 2026-08-04
+Last updated: 2026-08-05
 
 ## Problem Count
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | 3      |
+| Easy       | 4      |
 | Medium     | 0      |
 | Hard       | 0      |
-| **Total**  | **3**  |
+| **Total**  | **4**  |
 
 ## Patterns
 
@@ -17,6 +17,7 @@ Last updated: 2026-08-04
 |-------------------|--------|
 | Hash Map          | ✅     |
 | Arrays            | ✅     |
+| Boyer-Moore Voting | ✅    |
 | Strings           | ✅     |
 | Two Pointers      | ⬜     |
 | Sliding Window    | ⬜     |
@@ -37,6 +38,7 @@ Last updated: 2026-08-04
 - Solved Two Sum (Hash Map)
 - Solved Contains Duplicate (Hash Set)
 - Solved Valid Anagram (Frequency Counting)
+- Solved Majority Element (Boyer-Moore Voting)
 - Day 1 complete — streak: 1 day
 - Adopted dual-language workflow: every solution written in both Java and C++
 
