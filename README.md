@@ -10,8 +10,8 @@ A study journal and portfolio for FAANG-level DSA preparation. Solutions are wri
 - ✅ [Contains Duplicate](arrays/0217-contains-duplicate/)
 - ✅ [Majority Element](arrays/0169-majority-element/)
 
-### Week 2
-- ⬜ (add problems as you go)
+### Week 2 — Sliding Window
+- ✅ [Maximum Average Subarray I](sliding-window/0643-maximum-average-subarray-i/)
 
 ## Patterns Learned
 
