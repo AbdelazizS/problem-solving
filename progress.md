@@ -1,15 +1,15 @@
 # Progress Tracker
 
-Last updated: 2026-08-05
+Last updated: 2026-08-09
 
 ## Problem Count
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | 4      |
+| Easy       | 5      |
 | Medium     | 0      |
 | Hard       | 0      |
-| **Total**  | **4**  |
+| **Total**  | **5**  |
 
 ## Patterns
 
@@ -20,7 +20,7 @@ Last updated: 2026-08-05
 | Boyer-Moore Voting | ✅    |
 | Strings           | ✅     |
 | Two Pointers      | ⬜     |
-| Sliding Window    | ⬜     |
+| Sliding Window    | ✅     |
 | Binary Search     | ⬜     |
 | Stack             | ⬜     |
 | Queue             | ⬜     |
@@ -41,6 +41,9 @@ Last updated: 2026-08-05
 - Solved Majority Element (Boyer-Moore Voting)
 - Day 1 complete — streak: 1 day
 - Adopted dual-language workflow: every solution written in both Java and C++
+
+### Week 2 (2026-08-09)
+- Solved Maximum Average Subarray I (Fixed-Size Sliding Window)
 
 ## Goals
 
