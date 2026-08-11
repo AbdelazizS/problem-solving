@@ -1,15 +1,15 @@
 # Progress Tracker
 
-Last updated: 2026-08-09
+Last updated: 2026-08-11
 
 ## Problem Count
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | 5      |
+| Easy       | 6      |
 | Medium     | 0      |
 | Hard       | 0      |
-| **Total**  | **5**  |
+| **Total**  | **6**  |
 
 ## Patterns
 
@@ -21,7 +21,7 @@ Last updated: 2026-08-09
 | Strings           | ✅     |
 | Two Pointers      | ⬜     |
 | Sliding Window    | ✅     |
-| Binary Search     | ⬜     |
+| Binary Search     | ✅     |
 | Stack             | ⬜     |
 | Queue             | ⬜     |
 | Linked List       | ⬜     |
@@ -44,6 +44,7 @@ Last updated: 2026-08-09
 
 ### Week 2 (2026-08-09)
 - Solved Maximum Average Subarray I (Fixed-Size Sliding Window)
+- Solved Binary Search (Binary Search)
 
 ## Goals
 
