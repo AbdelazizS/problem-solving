@@ -1,10 +1,10 @@
 # Problem Solving Journey
 
-A study journal and portfolio for FAANG-level DSA preparation. Solutions are written in both **Java** and **C++**.
+A study journal and portfolio for data structures and algorithms interview preparation. Every accepted solution is written in both **Java** and **C++**.
 
 ## Progress
 
-### Week 1 — Arrays & Hashing
+### Week 1 — Arrays, Strings & Hashing
 - ✅ [Two Sum](arrays/0001-two-sum/)
 - ✅ [Valid Anagram](strings/0242-valid-anagram/)
 - ✅ [Contains Duplicate](arrays/0217-contains-duplicate/)
@@ -14,13 +14,16 @@ A study journal and portfolio for FAANG-level DSA preparation. Solutions are wri
 - ✅ [Maximum Average Subarray I](sliding-window/0643-maximum-average-subarray-i/)
 - ✅ [Binary Search](arrays/0704-binary-search/)
 
-## Patterns Learned
+## Patterns Practiced
 
-- [Hash Map](patterns/hash-map.md)
+- [Hash Map & Frequency Counting](patterns/hash-map.md)
 - [Boyer-Moore Voting](patterns/boyer-moore-voting.md)
-- [Two Pointers](patterns/two-pointers.md)
-- [Sliding Window](patterns/sliding-window.md)
+- [Fixed-Size Sliding Window](patterns/sliding-window.md)
 - [Binary Search](patterns/binary-search.md)
+
+## Pattern References
+
+- [Two Pointers](patterns/two-pointers.md)
 
 ## Repository Structure
 
