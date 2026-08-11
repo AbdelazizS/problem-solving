@@ -21,3 +21,15 @@ Given an integer array, return `true` when any value appears at least twice; oth
 ## Key Insight
 
 Keep a hash set of values already seen. If inserting a value fails because it is already present, a duplicate exists.
+
+## Approach
+
+1. Create an empty hash set.
+2. Scan each value in the array once.
+3. Return `true` as soon as a value has already been seen.
+4. Return `false` after scanning every value without finding a duplicate.
+
+## Edge Cases
+
+- A one-element array always returns `false`.
+- The duplicate may occur at any two positions and may be negative.

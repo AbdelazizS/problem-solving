@@ -21,3 +21,16 @@ Given a sorted integer array and a target value, return the target's index or `-
 ## Key Insight
 
 Because the array is sorted, comparing the middle value with the target tells us which half cannot contain the answer. Discard that half and repeat.
+
+## Approach
+
+1. Set inclusive `left` and `right` boundaries around the whole array.
+2. Compare the middle value with `target`.
+3. Discard the left or right half that cannot contain the target.
+4. Return `-1` when the search range becomes empty.
+
+## Edge Cases
+
+- The target can be at either end of the array.
+- An empty search range returns `-1`.
+- The approach requires the input array to be sorted.

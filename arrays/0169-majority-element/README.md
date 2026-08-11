@@ -21,3 +21,15 @@ Given an integer array with a guaranteed majority element, return the value that
 ## Key Insight
 
 The Boyer-Moore Voting algorithm cancels different values in pairs. Because the majority element appears more than all other values combined, it remains as the final candidate.
+
+## Approach
+
+1. Keep a current candidate and its vote count.
+2. Choose the current number as the candidate whenever the count reaches zero.
+3. Add a vote for matching values and remove a vote for different values.
+4. Return the remaining candidate after one pass.
+
+## Edge Cases
+
+- A single value is automatically the majority element.
+- The algorithm is correct here because the problem guarantees that a majority element exists.
