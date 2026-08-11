@@ -10,8 +10,9 @@ A study journal and portfolio for FAANG-level DSA preparation. Solutions are wri
 - ✅ [Contains Duplicate](arrays/0217-contains-duplicate/)
 - ✅ [Majority Element](arrays/0169-majority-element/)
 
-### Week 2 — Sliding Window
+### Week 2 — Sliding Window & Binary Search
 - ✅ [Maximum Average Subarray I](sliding-window/0643-maximum-average-subarray-i/)
+- ✅ [Binary Search](arrays/0704-binary-search/)
 
 ## Patterns Learned
 
@@ -19,6 +20,7 @@ A study journal and portfolio for FAANG-level DSA preparation. Solutions are wri
 - [Boyer-Moore Voting](patterns/boyer-moore-voting.md)
 - [Two Pointers](patterns/two-pointers.md)
 - [Sliding Window](patterns/sliding-window.md)
+- [Binary Search](patterns/binary-search.md)
 
 ## Repository Structure
 
