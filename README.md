@@ -10,9 +10,10 @@ A study journal and portfolio for data structures and algorithms interview prepa
 - ✅ [Contains Duplicate](arrays/0217-contains-duplicate/)
 - ✅ [Majority Element](arrays/0169-majority-element/)
 
-### Week 2 — Sliding Window & Binary Search
+### Week 2 — Sliding Window, Binary Search & Prefix Sum
 - ✅ [Maximum Average Subarray I](sliding-window/0643-maximum-average-subarray-i/)
 - ✅ [Binary Search](arrays/0704-binary-search/)
+- ✅ [Range Sum Query — Immutable](arrays/0303-range-sum-query-immutable/)
 
 ## Patterns Practiced
 
@@ -20,6 +21,7 @@ A study journal and portfolio for data structures and algorithms interview prepa
 - [Boyer-Moore Voting](patterns/boyer-moore-voting.md)
 - [Fixed-Size Sliding Window](patterns/sliding-window.md)
 - [Binary Search](patterns/binary-search.md)
+- [Prefix Sum](patterns/prefix-sum.md)
 
 ## Pattern References
 
