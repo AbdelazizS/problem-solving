@@ -1,15 +1,15 @@
 # Progress Tracker
 
-Last updated: 2026-08-14
+Last updated: 2026-08-15
 
 ## Problem Count
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | 6      |
+| Easy       | 7      |
 | Medium     | 1      |
 | Hard       | 0      |
-| **Total**  | **7**  |
+| **Total**  | **8**  |
 
 ## Patterns
 
@@ -19,10 +19,11 @@ Last updated: 2026-08-14
 | Arrays            | ✅     |
 | Boyer-Moore Voting | ✅    |
 | Strings           | ✅     |
-| Two Pointers      | ⬜     |
+| Two Pointers      | ✅     |
 | Sliding Window    | ✅     |
 | Binary Search     | ✅     |
 | Prefix Sum        | ✅     |
+| Sorting           | ✅     |
 | Stack             | ⬜     |
 | Queue             | ⬜     |
 | Linked List       | ⬜     |
@@ -47,6 +48,7 @@ Last updated: 2026-08-14
 - Solved Maximum Average Subarray I (Fixed-Size Sliding Window)
 - Solved Binary Search (Binary Search)
 - Solved Range Sum Query — Immutable (Prefix Sum)
+- Solved Intersection of Two Arrays (Sorting + Two Pointers)
 
 ## Goals
 
