@@ -10,11 +10,12 @@ A study journal and portfolio for data structures and algorithms interview prepa
 - ✅ [Contains Duplicate](arrays/0217-contains-duplicate/)
 - ✅ [Majority Element](arrays/0169-majority-element/)
 
-### Week 2 — Sliding Window, Binary Search, Prefix Sum & Sorting
+### Week 2 — Core Patterns
 - ✅ [Maximum Average Subarray I](sliding-window/0643-maximum-average-subarray-i/)
 - ✅ [Binary Search](arrays/0704-binary-search/)
 - ✅ [Range Sum Query — Immutable](arrays/0303-range-sum-query-immutable/)
 - ✅ [Intersection of Two Arrays](arrays/0349-intersection-of-two-arrays/)
+- ✅ [Number of Recent Calls](queue/0933-number-of-recent-calls/)
 
 ## Patterns Practiced
 
@@ -25,6 +26,7 @@ A study journal and portfolio for data structures and algorithms interview prepa
 - [Prefix Sum](patterns/prefix-sum.md)
 - [Two Pointers](patterns/two-pointers.md)
 - [Sorting](patterns/sorting.md)
+- [Queue & FIFO](patterns/queue.md)
 
 ## Repository Structure
 
