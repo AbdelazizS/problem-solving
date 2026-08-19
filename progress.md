@@ -1,15 +1,15 @@
 # Progress Tracker
 
-Last updated: 2026-08-18
+Last updated: 2026-08-19
 
 ## Problem Count
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | 8      |
+| Easy       | 9      |
 | Medium     | 1      |
 | Hard       | 0      |
-| **Total**  | **9**  |
+| **Total**  | **10** |
 
 ## Patterns
 
@@ -26,7 +26,7 @@ Last updated: 2026-08-18
 | Sorting           | ✅     |
 | Stack             | ⬜     |
 | Queue             | ✅     |
-| Linked List       | ⬜     |
+| Linked List       | ✅     |
 | Trees             | ⬜     |
 | Graphs            | ⬜     |
 | Heap              | ⬜     |
@@ -50,6 +50,7 @@ Last updated: 2026-08-18
 - Solved Range Sum Query — Immutable (Prefix Sum)
 - Solved Intersection of Two Arrays (Sorting + Two Pointers)
 - Solved Number of Recent Calls (Queue + FIFO)
+- Solved Reverse Linked List (Pointer Manipulation)
 
 ## Goals
 

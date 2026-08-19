@@ -16,6 +16,7 @@ A study journal and portfolio for data structures and algorithms interview prepa
 - ✅ [Range Sum Query — Immutable](arrays/0303-range-sum-query-immutable/)
 - ✅ [Intersection of Two Arrays](arrays/0349-intersection-of-two-arrays/)
 - ✅ [Number of Recent Calls](queue/0933-number-of-recent-calls/)
+- ✅ [Reverse Linked List](linked-list/0206-reverse-linked-list/)
 
 ## Patterns Practiced
 
@@ -27,6 +28,7 @@ A study journal and portfolio for data structures and algorithms interview prepa
 - [Two Pointers](patterns/two-pointers.md)
 - [Sorting](patterns/sorting.md)
 - [Queue & FIFO](patterns/queue.md)
+- [Linked List & Pointer Manipulation](patterns/linked-list.md)
 
 ## Repository Structure
 
