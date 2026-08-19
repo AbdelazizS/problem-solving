@@ -17,6 +17,7 @@ A study journal and portfolio for data structures and algorithms interview prepa
 - ✅ [Intersection of Two Arrays](arrays/0349-intersection-of-two-arrays/)
 - ✅ [Number of Recent Calls](queue/0933-number-of-recent-calls/)
 - ✅ [Reverse Linked List](linked-list/0206-reverse-linked-list/)
+- ✅ [Merge Two Sorted Lists](linked-list/0021-merge-two-sorted-lists/)
 
 ## Patterns Practiced
 
