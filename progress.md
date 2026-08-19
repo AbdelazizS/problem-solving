@@ -1,15 +1,15 @@
 # Progress Tracker
 
-Last updated: 2026-08-19
+Last updated: 2026-08-20
 
 ## Problem Count
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | 9      |
+| Easy       | 10     |
 | Medium     | 1      |
 | Hard       | 0      |
-| **Total**  | **10** |
+| **Total**  | **11** |
 
 ## Patterns
 
@@ -51,6 +51,7 @@ Last updated: 2026-08-19
 - Solved Intersection of Two Arrays (Sorting + Two Pointers)
 - Solved Number of Recent Calls (Queue + FIFO)
 - Solved Reverse Linked List (Pointer Manipulation)
+- Solved Merge Two Sorted Lists (Dummy Node + Pointer Manipulation)
 
 ## Goals
 
