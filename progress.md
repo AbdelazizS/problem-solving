@@ -6,10 +6,10 @@ Last updated: 2026-08-20
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | 10     |
+| Easy       | 11     |
 | Medium     | 1      |
 | Hard       | 0      |
-| **Total**  | **11** |
+| **Total**  | **12** |
 
 ## Patterns
 
@@ -41,6 +41,7 @@ Last updated: 2026-08-20
 - Solved Contains Duplicate (Hash Set)
 - Solved Valid Anagram (Frequency Counting)
 - Solved Majority Element (Boyer-Moore Voting)
+- Solved Isomorphic Strings (Bidirectional Hash Map)
 - Day 1 complete — streak: 1 day
 - Adopted dual-language workflow: every solution written in both Java and C++
 

@@ -9,6 +9,7 @@ A study journal and portfolio for data structures and algorithms interview prepa
 - ✅ [Valid Anagram](strings/0242-valid-anagram/)
 - ✅ [Contains Duplicate](arrays/0217-contains-duplicate/)
 - ✅ [Majority Element](arrays/0169-majority-element/)
+- ✅ [Isomorphic Strings](strings/0205-isomorphic-strings/)
 
 ### Week 2 — Core Patterns
 - ✅ [Maximum Average Subarray I](sliding-window/0643-maximum-average-subarray-i/)
