@@ -20,6 +20,9 @@ A study journal and portfolio for data structures and algorithms interview prepa
 - ✅ [Reverse Linked List](linked-list/0206-reverse-linked-list/)
 - ✅ [Merge Two Sorted Lists](linked-list/0021-merge-two-sorted-lists/)
 
+### Week 3 — Stack
+- ✅ [Valid Parentheses](stack/0020-valid-parentheses/)
+
 ## Patterns Practiced
 
 - [Hash Map & Frequency Counting](patterns/hash-map.md)
@@ -31,6 +34,7 @@ A study journal and portfolio for data structures and algorithms interview prepa
 - [Sorting](patterns/sorting.md)
 - [Queue & FIFO](patterns/queue.md)
 - [Linked List & Pointer Manipulation](patterns/linked-list.md)
+- [Stack & LIFO Matching](patterns/stack.md)
 
 ## Repository Structure
 
@@ -52,6 +56,6 @@ Each problem folder contains:
 
 ## Current Streak
 
-1 day
+2 days
 
 See [progress.md](progress.md) for detailed statistics.

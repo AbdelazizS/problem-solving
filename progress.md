@@ -1,15 +1,15 @@
 # Progress Tracker
 
-Last updated: 2026-08-20
+Last updated: 2026-08-21
 
 ## Problem Count
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | 11     |
+| Easy       | 12     |
 | Medium     | 1      |
 | Hard       | 0      |
-| **Total**  | **12** |
+| **Total**  | **13** |
 
 ## Patterns
 
@@ -24,7 +24,7 @@ Last updated: 2026-08-20
 | Binary Search     | ✅     |
 | Prefix Sum        | ✅     |
 | Sorting           | ✅     |
-| Stack             | ⬜     |
+| Stack             | ✅     |
 | Queue             | ✅     |
 | Linked List       | ✅     |
 | Trees             | ⬜     |
@@ -53,6 +53,9 @@ Last updated: 2026-08-20
 - Solved Number of Recent Calls (Queue + FIFO)
 - Solved Reverse Linked List (Pointer Manipulation)
 - Solved Merge Two Sorted Lists (Dummy Node + Pointer Manipulation)
+
+### Week 3 (2026-08-21)
+- Solved Valid Parentheses (Stack + LIFO Matching)
 
 ## Goals
 
