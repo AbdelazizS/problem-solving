@@ -7,9 +7,9 @@ Last updated: 2026-08-21
 | Difficulty | Solved |
 |------------|--------|
 | Easy       | 13     |
-| Medium     | 1      |
+| Medium     | 2      |
 | Hard       | 0      |
-| **Total**  | **14** |
+| **Total**  | **15** |
 
 ## Patterns
 
@@ -28,7 +28,7 @@ Last updated: 2026-08-21
 | Queue             | ✅     |
 | Linked List       | ✅     |
 | Trees             | ✅     |
-| Graphs            | ⬜     |
+| Graphs            | ✅     |
 | Heap              | ⬜     |
 | Backtracking      | ⬜     |
 | Dynamic Programming | ⬜   |
@@ -57,6 +57,7 @@ Last updated: 2026-08-21
 ### Week 3 (2026-08-21)
 - Solved Valid Parentheses (Stack + LIFO Matching)
 - Solved Maximum Depth of Binary Tree (Tree DFS, Post-order)
+- Solved Number of Islands (Graph DFS, Connected Components)
 
 ## Goals
 
