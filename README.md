@@ -20,12 +20,13 @@ A study journal and portfolio for data structures and algorithms interview prepa
 - ✅ [Reverse Linked List](linked-list/0206-reverse-linked-list/)
 - ✅ [Merge Two Sorted Lists](linked-list/0021-merge-two-sorted-lists/)
 
-### Week 3 — Stack, Trees, Graphs, Heap & Backtracking
+### Week 3 — Stack, Trees, Graphs, Heap, Backtracking & DP
 - ✅ [Valid Parentheses](stack/0020-valid-parentheses/)
 - ✅ [Maximum Depth of Binary Tree](trees/0104-maximum-depth-of-binary-tree/)
 - ✅ [Number of Islands](graphs/0200-number-of-islands/)
 - ✅ [Kth Largest Element in an Array](heap/0215-kth-largest-element-in-an-array/)
 - ✅ [Subsets](backtracking/0078-subsets/)
+- ✅ [Climbing Stairs](dynamic-programming/0070-climbing-stairs/)
 
 ## Patterns Practiced
 
@@ -43,6 +44,7 @@ A study journal and portfolio for data structures and algorithms interview prepa
 - [Graph & Connected Components](patterns/graph.md)
 - [Heap & Top K](patterns/heap.md)
 - [Backtracking & Include/Exclude](patterns/backtracking.md)
+- [Dynamic Programming](patterns/dynamic-programming.md)
 
 ## Repository Structure
 

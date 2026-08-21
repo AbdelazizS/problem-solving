@@ -6,10 +6,10 @@ Last updated: 2026-08-21
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | 13     |
+| Easy       | 14     |
 | Medium     | 4      |
 | Hard       | 0      |
-| **Total**  | **17** |
+| **Total**  | **18** |
 
 ## Patterns
 
@@ -31,7 +31,7 @@ Last updated: 2026-08-21
 | Graphs            | ✅     |
 | Heap              | ✅     |
 | Backtracking      | ✅     |
-| Dynamic Programming | ⬜   |
+| Dynamic Programming | ✅   |
 
 ## Weekly Log
 
@@ -60,6 +60,7 @@ Last updated: 2026-08-21
 - Solved Number of Islands (Graph DFS, Connected Components)
 - Solved Kth Largest Element in an Array (Min-Heap, Top K)
 - Solved Subsets (Backtracking, Include/Exclude)
+- Solved Climbing Stairs (Dynamic Programming, 1D)
 
 ## Goals
 
