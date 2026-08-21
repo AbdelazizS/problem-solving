@@ -20,8 +20,9 @@ A study journal and portfolio for data structures and algorithms interview prepa
 - ✅ [Reverse Linked List](linked-list/0206-reverse-linked-list/)
 - ✅ [Merge Two Sorted Lists](linked-list/0021-merge-two-sorted-lists/)
 
-### Week 3 — Stack
+### Week 3 — Stack & Trees
 - ✅ [Valid Parentheses](stack/0020-valid-parentheses/)
+- ✅ [Maximum Depth of Binary Tree](trees/0104-maximum-depth-of-binary-tree/)
 
 ## Patterns Practiced
 
@@ -35,6 +36,7 @@ A study journal and portfolio for data structures and algorithms interview prepa
 - [Queue & FIFO](patterns/queue.md)
 - [Linked List & Pointer Manipulation](patterns/linked-list.md)
 - [Stack & LIFO Matching](patterns/stack.md)
+- [Tree & DFS/BFS Traversal](patterns/tree.md)
 
 ## Repository Structure
 
