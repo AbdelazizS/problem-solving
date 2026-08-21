@@ -20,10 +20,11 @@ A study journal and portfolio for data structures and algorithms interview prepa
 - ✅ [Reverse Linked List](linked-list/0206-reverse-linked-list/)
 - ✅ [Merge Two Sorted Lists](linked-list/0021-merge-two-sorted-lists/)
 
-### Week 3 — Stack, Trees & Graphs
+### Week 3 — Stack, Trees, Graphs & Heap
 - ✅ [Valid Parentheses](stack/0020-valid-parentheses/)
 - ✅ [Maximum Depth of Binary Tree](trees/0104-maximum-depth-of-binary-tree/)
 - ✅ [Number of Islands](graphs/0200-number-of-islands/)
+- ✅ [Kth Largest Element in an Array](heap/0215-kth-largest-element-in-an-array/)
 
 ## Patterns Practiced
 
@@ -39,6 +40,7 @@ A study journal and portfolio for data structures and algorithms interview prepa
 - [Stack & LIFO Matching](patterns/stack.md)
 - [Tree & DFS/BFS Traversal](patterns/tree.md)
 - [Graph & Connected Components](patterns/graph.md)
+- [Heap & Top K](patterns/heap.md)
 
 ## Repository Structure
 

@@ -7,9 +7,9 @@ Last updated: 2026-08-21
 | Difficulty | Solved |
 |------------|--------|
 | Easy       | 13     |
-| Medium     | 2      |
+| Medium     | 3      |
 | Hard       | 0      |
-| **Total**  | **15** |
+| **Total**  | **16** |
 
 ## Patterns
 
@@ -29,7 +29,7 @@ Last updated: 2026-08-21
 | Linked List       | ✅     |
 | Trees             | ✅     |
 | Graphs            | ✅     |
-| Heap              | ⬜     |
+| Heap              | ✅     |
 | Backtracking      | ⬜     |
 | Dynamic Programming | ⬜   |
 
@@ -58,6 +58,7 @@ Last updated: 2026-08-21
 - Solved Valid Parentheses (Stack + LIFO Matching)
 - Solved Maximum Depth of Binary Tree (Tree DFS, Post-order)
 - Solved Number of Islands (Graph DFS, Connected Components)
+- Solved Kth Largest Element in an Array (Min-Heap, Top K)
 
 ## Goals
 
