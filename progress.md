@@ -6,10 +6,10 @@ Last updated: 2026-08-21
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | 12     |
+| Easy       | 13     |
 | Medium     | 1      |
 | Hard       | 0      |
-| **Total**  | **13** |
+| **Total**  | **14** |
 
 ## Patterns
 
@@ -27,7 +27,7 @@ Last updated: 2026-08-21
 | Stack             | ✅     |
 | Queue             | ✅     |
 | Linked List       | ✅     |
-| Trees             | ⬜     |
+| Trees             | ✅     |
 | Graphs            | ⬜     |
 | Heap              | ⬜     |
 | Backtracking      | ⬜     |
@@ -56,6 +56,7 @@ Last updated: 2026-08-21
 
 ### Week 3 (2026-08-21)
 - Solved Valid Parentheses (Stack + LIFO Matching)
+- Solved Maximum Depth of Binary Tree (Tree DFS, Post-order)
 
 ## Goals
 
