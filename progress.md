@@ -7,9 +7,9 @@ Last updated: 2026-08-21
 | Difficulty | Solved |
 |------------|--------|
 | Easy       | 13     |
-| Medium     | 3      |
+| Medium     | 4      |
 | Hard       | 0      |
-| **Total**  | **16** |
+| **Total**  | **17** |
 
 ## Patterns
 
@@ -30,7 +30,7 @@ Last updated: 2026-08-21
 | Trees             | ✅     |
 | Graphs            | ✅     |
 | Heap              | ✅     |
-| Backtracking      | ⬜     |
+| Backtracking      | ✅     |
 | Dynamic Programming | ⬜   |
 
 ## Weekly Log
@@ -59,6 +59,7 @@ Last updated: 2026-08-21
 - Solved Maximum Depth of Binary Tree (Tree DFS, Post-order)
 - Solved Number of Islands (Graph DFS, Connected Components)
 - Solved Kth Largest Element in an Array (Min-Heap, Top K)
+- Solved Subsets (Backtracking, Include/Exclude)
 
 ## Goals
 
