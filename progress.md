@@ -6,10 +6,10 @@ Last updated: 2026-08-21
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | 14     |
+| Easy       | 15     |
 | Medium     | 4      |
 | Hard       | 0      |
-| **Total**  | **18** |
+| **Total**  | **19** |
 
 ## Patterns
 
@@ -61,6 +61,7 @@ Last updated: 2026-08-21
 - Solved Kth Largest Element in an Array (Min-Heap, Top K)
 - Solved Subsets (Backtracking, Include/Exclude)
 - Solved Climbing Stairs (Dynamic Programming, 1D)
+- Solved Ransom Note (Hash Map, Frequency Counting)
 
 ## Goals
 

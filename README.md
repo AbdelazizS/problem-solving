@@ -27,6 +27,7 @@ A study journal and portfolio for data structures and algorithms interview prepa
 - ✅ [Kth Largest Element in an Array](heap/0215-kth-largest-element-in-an-array/)
 - ✅ [Subsets](backtracking/0078-subsets/)
 - ✅ [Climbing Stairs](dynamic-programming/0070-climbing-stairs/)
+- ✅ [Ransom Note](hashing/0383-ransom-note/)
 
 ## Patterns Practiced
 
