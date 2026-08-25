@@ -6,10 +6,10 @@ Last updated: 2026-08-21
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | 15     |
+| Easy       | 16     |
 | Medium     | 4      |
 | Hard       | 0      |
-| **Total**  | **19** |
+| **Total**  | **20** |
 
 ## Patterns
 
@@ -62,6 +62,7 @@ Last updated: 2026-08-21
 - Solved Subsets (Backtracking, Include/Exclude)
 - Solved Climbing Stairs (Dynamic Programming, 1D)
 - Solved Ransom Note (Hash Map, Frequency Counting)
+- Solved Contains Duplicate II (Hash Map, Index Tracking)
 
 ## Goals
 
