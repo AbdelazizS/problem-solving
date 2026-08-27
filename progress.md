@@ -7,9 +7,9 @@ Last updated: 2026-08-21
 | Difficulty | Solved |
 |------------|--------|
 | Easy       | 20     |
-| Medium     | 5      |
+| Medium     | 6      |
 | Hard       | 0      |
-| **Total**  | **25** |
+| **Total**  | **26** |
 
 ## Patterns
 
@@ -68,6 +68,7 @@ Last updated: 2026-08-21
 - Solved Move Zeroes (Two Pointers, Read/Write Same Direction)
 - Solved Two Sum II - Input Array Is Sorted (Two Pointers, Opposite Ends)
 - Solved Best Time to Buy and Sell Stock (Sliding Window, Min-Tracking)
+- Solved Longest Substring Without Repeating Characters (Sliding Window, Expand/Shrink)
 
 ## Goals
 
