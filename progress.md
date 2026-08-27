@@ -6,10 +6,10 @@ Last updated: 2026-08-21
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | 18     |
+| Easy       | 19     |
 | Medium     | 4      |
 | Hard       | 0      |
-| **Total**  | **22** |
+| **Total**  | **23** |
 
 ## Patterns
 
@@ -65,6 +65,7 @@ Last updated: 2026-08-21
 - Solved Contains Duplicate II (Hash Map, Index Tracking)
 - Solved First Unique Character in a String (Hash Map, Frequency Counting)
 - Solved Valid Palindrome (Two Pointers, Opposite Ends)
+- Solved Move Zeroes (Two Pointers, Read/Write Same Direction)
 
 ## Goals
 

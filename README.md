@@ -31,6 +31,7 @@ A study journal and portfolio for data structures and algorithms interview prepa
 - ✅ [Contains Duplicate II](hashing/0219-contains-duplicate-ii/)
 - ✅ [First Unique Character in a String](hashing/0387-first-unique-character-in-a-string/)
 - ✅ [Valid Palindrome](two-pointers/0125-valid-palindrome/)
+- ✅ [Move Zeroes](two-pointers/0283-move-zeroes/)
 
 ## Patterns Practiced
 
