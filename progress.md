@@ -6,10 +6,10 @@ Last updated: 2026-08-21
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | 17     |
+| Easy       | 18     |
 | Medium     | 4      |
 | Hard       | 0      |
-| **Total**  | **21** |
+| **Total**  | **22** |
 
 ## Patterns
 
@@ -64,6 +64,7 @@ Last updated: 2026-08-21
 - Solved Ransom Note (Hash Map, Frequency Counting)
 - Solved Contains Duplicate II (Hash Map, Index Tracking)
 - Solved First Unique Character in a String (Hash Map, Frequency Counting)
+- Solved Valid Palindrome (Two Pointers, Opposite Ends)
 
 ## Goals
 

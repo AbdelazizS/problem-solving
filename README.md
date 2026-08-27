@@ -30,6 +30,7 @@ A study journal and portfolio for data structures and algorithms interview prepa
 - ✅ [Ransom Note](hashing/0383-ransom-note/)
 - ✅ [Contains Duplicate II](hashing/0219-contains-duplicate-ii/)
 - ✅ [First Unique Character in a String](hashing/0387-first-unique-character-in-a-string/)
+- ✅ [Valid Palindrome](two-pointers/0125-valid-palindrome/)
 
 ## Patterns Practiced
 
