@@ -6,10 +6,10 @@ Last updated: 2026-08-21
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | 16     |
+| Easy       | 17     |
 | Medium     | 4      |
 | Hard       | 0      |
-| **Total**  | **20** |
+| **Total**  | **21** |
 
 ## Patterns
 
@@ -63,6 +63,7 @@ Last updated: 2026-08-21
 - Solved Climbing Stairs (Dynamic Programming, 1D)
 - Solved Ransom Note (Hash Map, Frequency Counting)
 - Solved Contains Duplicate II (Hash Map, Index Tracking)
+- Solved First Unique Character in a String (Hash Map, Frequency Counting)
 
 ## Goals
 
