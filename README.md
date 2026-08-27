@@ -40,6 +40,7 @@ A study journal and portfolio for data structures and algorithms interview prepa
 - ✅ [Best Time to Buy and Sell Stock](sliding-window/0121-best-time-to-buy-and-sell-stock/)
 - ✅ [Longest Substring Without Repeating Characters](sliding-window/0003-longest-substring-without-repeating-characters/)
 - ✅ [Min Stack](stack/0155-min-stack/)
+- ✅ [Binary Tree Level Order Traversal](trees/0102-binary-tree-level-order-traversal/)
 
 ## Patterns Practiced
 
@@ -79,6 +80,6 @@ Each problem folder contains:
 
 ## Current Streak
 
-3 days (08-25, 08-26, 08-27)
+4 days (08-25, 08-26, 08-27, 08-28)
 
 See [progress.md](progress.md) for detailed statistics.
