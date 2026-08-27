@@ -6,10 +6,10 @@ Last updated: 2026-08-21
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | 19     |
+| Easy       | 20     |
 | Medium     | 5      |
 | Hard       | 0      |
-| **Total**  | **24** |
+| **Total**  | **25** |
 
 ## Patterns
 
@@ -67,6 +67,7 @@ Last updated: 2026-08-21
 - Solved Valid Palindrome (Two Pointers, Opposite Ends)
 - Solved Move Zeroes (Two Pointers, Read/Write Same Direction)
 - Solved Two Sum II - Input Array Is Sorted (Two Pointers, Opposite Ends)
+- Solved Best Time to Buy and Sell Stock (Sliding Window, Min-Tracking)
 
 ## Goals
 

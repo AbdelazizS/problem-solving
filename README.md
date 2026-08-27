@@ -33,6 +33,7 @@ A study journal and portfolio for data structures and algorithms interview prepa
 - ✅ [Valid Palindrome](two-pointers/0125-valid-palindrome/)
 - ✅ [Move Zeroes](two-pointers/0283-move-zeroes/)
 - ✅ [Two Sum II - Input Array Is Sorted](two-pointers/0167-two-sum-ii-input-array-is-sorted/)
+- ✅ [Best Time to Buy and Sell Stock](sliding-window/0121-best-time-to-buy-and-sell-stock/)
 
 ## Patterns Practiced
 
