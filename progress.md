@@ -7,9 +7,9 @@ Last updated: 2026-08-21
 | Difficulty | Solved |
 |------------|--------|
 | Easy       | 19     |
-| Medium     | 4      |
+| Medium     | 5      |
 | Hard       | 0      |
-| **Total**  | **23** |
+| **Total**  | **24** |
 
 ## Patterns
 
@@ -66,6 +66,7 @@ Last updated: 2026-08-21
 - Solved First Unique Character in a String (Hash Map, Frequency Counting)
 - Solved Valid Palindrome (Two Pointers, Opposite Ends)
 - Solved Move Zeroes (Two Pointers, Read/Write Same Direction)
+- Solved Two Sum II - Input Array Is Sorted (Two Pointers, Opposite Ends)
 
 ## Goals
 
