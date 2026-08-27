@@ -4,23 +4,25 @@ A study journal and portfolio for data structures and algorithms interview prepa
 
 ## Progress
 
-### Week 1 — Arrays, Strings & Hashing
+### Week 1 (2026-07-30 – 08-05) — Arrays, Strings & Hashing
 - ✅ [Two Sum](arrays/0001-two-sum/)
-- ✅ [Valid Anagram](strings/0242-valid-anagram/)
 - ✅ [Contains Duplicate](arrays/0217-contains-duplicate/)
+- ✅ [Valid Anagram](strings/0242-valid-anagram/)
 - ✅ [Majority Element](arrays/0169-majority-element/)
-- ✅ [Isomorphic Strings](strings/0205-isomorphic-strings/)
 
-### Week 2 — Core Patterns
+### Week 2 (08-06 – 08-12) — Sliding Window & Binary Search
 - ✅ [Maximum Average Subarray I](sliding-window/0643-maximum-average-subarray-i/)
 - ✅ [Binary Search](arrays/0704-binary-search/)
+
+### Week 3 (08-13 – 08-19) — Prefix Sum, Sorting, Queue & Linked List
 - ✅ [Range Sum Query — Immutable](arrays/0303-range-sum-query-immutable/)
 - ✅ [Intersection of Two Arrays](arrays/0349-intersection-of-two-arrays/)
 - ✅ [Number of Recent Calls](queue/0933-number-of-recent-calls/)
 - ✅ [Reverse Linked List](linked-list/0206-reverse-linked-list/)
-- ✅ [Merge Two Sorted Lists](linked-list/0021-merge-two-sorted-lists/)
 
-### Week 3 — Stack, Trees, Graphs, Heap, Backtracking & DP
+### Week 4 (08-20 – 08-26) — Stack, Trees, Graphs, Heap, Backtracking, DP & Hashing
+- ✅ [Merge Two Sorted Lists](linked-list/0021-merge-two-sorted-lists/)
+- ✅ [Isomorphic Strings](strings/0205-isomorphic-strings/)
 - ✅ [Valid Parentheses](stack/0020-valid-parentheses/)
 - ✅ [Maximum Depth of Binary Tree](trees/0104-maximum-depth-of-binary-tree/)
 - ✅ [Number of Islands](graphs/0200-number-of-islands/)
@@ -29,6 +31,8 @@ A study journal and portfolio for data structures and algorithms interview prepa
 - ✅ [Climbing Stairs](dynamic-programming/0070-climbing-stairs/)
 - ✅ [Ransom Note](hashing/0383-ransom-note/)
 - ✅ [Contains Duplicate II](hashing/0219-contains-duplicate-ii/)
+
+### Week 5 (08-27 – 09-02) — Hash Map, Two Pointers & Sliding Window depth
 - ✅ [First Unique Character in a String](hashing/0387-first-unique-character-in-a-string/)
 - ✅ [Valid Palindrome](two-pointers/0125-valid-palindrome/)
 - ✅ [Move Zeroes](two-pointers/0283-move-zeroes/)
@@ -74,6 +78,6 @@ Each problem folder contains:
 
 ## Current Streak
 
-2 days
+3 days (08-25, 08-26, 08-27)
 
 See [progress.md](progress.md) for detailed statistics.
