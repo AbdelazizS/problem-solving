@@ -7,9 +7,9 @@ Last updated: 2026-08-27
 | Difficulty | Solved |
 |------------|--------|
 | Easy       | 20     |
-| Medium     | 6      |
+| Medium     | 7      |
 | Hard       | 0      |
-| **Total**  | **26** |
+| **Total**  | **27** |
 
 ## Patterns
 
@@ -75,7 +75,8 @@ Dates below are real solve/commit dates (verified against git history on 2026-08
 - Solved Two Sum II - Input Array Is Sorted (Two Pointers, Opposite Ends) — 08-27
 - Solved Best Time to Buy and Sell Stock (Sliding Window, Min-Tracking) — 08-27
 - Solved Longest Substring Without Repeating Characters (Sliding Window, Expand/Shrink) — 08-27
-- Note: 6 problems solved in a single session today — a real pace spike, not spread across the week like prior weeks.
+- Solved Min Stack (Stack, Auxiliary Min-Tracking) — 08-27
+- Note: 7 problems solved in a single session today — a real pace spike, not spread across the week like prior weeks.
 
 **Correction log (2026-08-27):** the "Week 3" bucket that used to span 08-21 through 08-27 (and stamped several notes.md files with the wrong Date, defaulted from a stale assumption about "today" instead of the actual system clock) was split into the correct Week 4 / Week 5 buckets above, with individual notes.md Date/Week fields corrected to match real commit dates.
 

@@ -39,6 +39,7 @@ A study journal and portfolio for data structures and algorithms interview prepa
 - ✅ [Two Sum II - Input Array Is Sorted](two-pointers/0167-two-sum-ii-input-array-is-sorted/)
 - ✅ [Best Time to Buy and Sell Stock](sliding-window/0121-best-time-to-buy-and-sell-stock/)
 - ✅ [Longest Substring Without Repeating Characters](sliding-window/0003-longest-substring-without-repeating-characters/)
+- ✅ [Min Stack](stack/0155-min-stack/)
 
 ## Patterns Practiced
 
