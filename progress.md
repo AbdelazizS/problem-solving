@@ -7,9 +7,9 @@ Last updated: 2026-09-07
 | Difficulty | Solved |
 |------------|--------|
 | Easy       | 20     |
-| Medium     | 11     |
+| Medium     | 12     |
 | Hard       | 0      |
-| **Total**  | **31** |
+| **Total**  | **32** |
 
 ## Patterns
 
@@ -83,6 +83,7 @@ Dates below are real solve/commit dates (verified against git history on 2026-08
 - Solved Course Schedule (Graph, Topological Sort / Kahn's Algorithm) — 09-07
 - Solved Top K Frequent Elements (Hash Map + Heap, Top K) — 09-07
 - Solved Permutations (Backtracking, Used-Array) — 09-07
+- Solved House Robber (Dynamic Programming, 1D Non-Adjacent Selection) — 09-07
 - Note: 10-day gap since the last solve (08-28 → 09-07) — streak reset, restarting at 1 day.
 
 **Correction log (2026-08-27):** the "Week 3" bucket that used to span 08-21 through 08-27 (and stamped several notes.md files with the wrong Date, defaulted from a stale assumption about "today" instead of the actual system clock) was split into the correct Week 4 / Week 5 buckets above, with individual notes.md Date/Week fields corrected to match real commit dates.

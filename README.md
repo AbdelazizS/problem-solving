@@ -42,10 +42,11 @@ A study journal and portfolio for data structures and algorithms interview prepa
 - ✅ [Min Stack](stack/0155-min-stack/)
 - ✅ [Binary Tree Level Order Traversal](trees/0102-binary-tree-level-order-traversal/)
 
-### Week 6 (09-03 – 09-09) — Graphs, Heap & Backtracking depth
+### Week 6 (09-03 – 09-09) — Graphs, Heap, Backtracking & DP depth
 - ✅ [Course Schedule](graphs/0207-course-schedule/)
 - ✅ [Top K Frequent Elements](heap/0347-top-k-frequent-elements/)
 - ✅ [Permutations](backtracking/0046-permutations/)
+- ✅ [House Robber](dynamic-programming/0198-house-robber/)
 
 ## Patterns Practiced
 
