@@ -42,6 +42,9 @@ A study journal and portfolio for data structures and algorithms interview prepa
 - ✅ [Min Stack](stack/0155-min-stack/)
 - ✅ [Binary Tree Level Order Traversal](trees/0102-binary-tree-level-order-traversal/)
 
+### Week 6 (09-03 – 09-09) — Graphs depth
+- ✅ [Course Schedule](graphs/0207-course-schedule/)
+
 ## Patterns Practiced
 
 - [Hash Map & Frequency Counting](patterns/hash-map.md)
@@ -80,6 +83,6 @@ Each problem folder contains:
 
 ## Current Streak
 
-4 days (08-25, 08-26, 08-27, 08-28)
+1 day (09-07) — reset after a 10-day gap since 08-28
 
 See [progress.md](progress.md) for detailed statistics.

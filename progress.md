@@ -1,15 +1,15 @@
 # Progress Tracker
 
-Last updated: 2026-08-28
+Last updated: 2026-09-07
 
 ## Problem Count
 
 | Difficulty | Solved |
 |------------|--------|
 | Easy       | 20     |
-| Medium     | 8      |
+| Medium     | 9      |
 | Hard       | 0      |
-| **Total**  | **28** |
+| **Total**  | **29** |
 
 ## Patterns
 
@@ -78,6 +78,10 @@ Dates below are real solve/commit dates (verified against git history on 2026-08
 - Solved Min Stack (Stack, Auxiliary Min-Tracking) — 08-27
 - Solved Binary Tree Level Order Traversal (Tree, BFS) — 08-28
 - Note: 7 problems solved on 08-27 alone — a real pace spike, not spread across the week like prior weeks.
+
+### Week 6 (2026-09-03 – 2026-09-09)
+- Solved Course Schedule (Graph, Topological Sort / Kahn's Algorithm) — 09-07
+- Note: 10-day gap since the last solve (08-28 → 09-07) — streak reset, restarting at 1 day.
 
 **Correction log (2026-08-27):** the "Week 3" bucket that used to span 08-21 through 08-27 (and stamped several notes.md files with the wrong Date, defaulted from a stale assumption about "today" instead of the actual system clock) was split into the correct Week 4 / Week 5 buckets above, with individual notes.md Date/Week fields corrected to match real commit dates.
 
