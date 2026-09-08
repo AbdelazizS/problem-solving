@@ -48,6 +48,7 @@ A study journal and portfolio for data structures and algorithms interview prepa
 - ✅ [Permutations](backtracking/0046-permutations/)
 - ✅ [House Robber](dynamic-programming/0198-house-robber/)
 - ✅ [Search in Rotated Sorted Array](arrays/0033-search-in-rotated-sorted-array/)
+- ✅ [Implement Queue using Stacks](queue/0232-implement-queue-using-stacks/)
 
 ## Patterns Practiced
 
