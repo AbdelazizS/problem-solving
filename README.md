@@ -50,6 +50,7 @@ A study journal and portfolio for data structures and algorithms interview prepa
 - ✅ [Search in Rotated Sorted Array](arrays/0033-search-in-rotated-sorted-array/)
 - ✅ [Implement Queue using Stacks](queue/0232-implement-queue-using-stacks/)
 - ✅ [Subarray Sum Equals K](arrays/0560-subarray-sum-equals-k/)
+- ✅ [Merge Intervals](arrays/0056-merge-intervals/)
 
 ## Patterns Practiced
 
