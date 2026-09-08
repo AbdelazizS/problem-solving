@@ -47,6 +47,7 @@ A study journal and portfolio for data structures and algorithms interview prepa
 - ✅ [Top K Frequent Elements](heap/0347-top-k-frequent-elements/)
 - ✅ [Permutations](backtracking/0046-permutations/)
 - ✅ [House Robber](dynamic-programming/0198-house-robber/)
+- ✅ [Search in Rotated Sorted Array](arrays/0033-search-in-rotated-sorted-array/)
 
 ## Patterns Practiced
 
